@@ -3,6 +3,10 @@ layout: page
 title: About
 ---
 
-This is an example page!
+This blog is here to share a few lessons learned from my work in BI development, data engineering and related topics. 
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+Occasionally unrelated topics. 
+
+Or just ramblings.
+
+
